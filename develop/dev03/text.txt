@@ -1,0 +1,8 @@
+hello 4 world
+laptop 6 pc
+abc 2 zbc
+batman 1 apolo
+laptop 6 pc
+abc 2 zbc
+zorro 11 ayaz
+nadanada 0 erw
